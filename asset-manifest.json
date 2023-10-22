@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RafalCeglinsk/goit-react-hw-02-feedback/static/css/main.7ca8aa5b.css",
+    "main.js": "/RafalCeglinsk/goit-react-hw-02-feedback/static/js/main.20b3b50f.js",
+    "index.html": "/RafalCeglinsk/goit-react-hw-02-feedback/index.html",
+    "main.7ca8aa5b.css.map": "/RafalCeglinsk/goit-react-hw-02-feedback/static/css/main.7ca8aa5b.css.map",
+    "main.20b3b50f.js.map": "/RafalCeglinsk/goit-react-hw-02-feedback/static/js/main.20b3b50f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca8aa5b.css",
+    "static/js/main.20b3b50f.js"
+  ]
+}
